@@ -11,6 +11,7 @@
 - ADD SOME!
 
 ## Participants
+Interested in joining? Create a PR adding your name to this list.
 
 - [Brian Brennan](https://github.com/brianloveswords)
 - [Ashley Williams](https://github.com/ashleygwilliams) 

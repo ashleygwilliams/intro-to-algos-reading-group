@@ -8,7 +8,7 @@
 
 ### Supporting Resources:
 
-- ADD SOME!
+- MIT Podcast: https://itunes.apple.com/us/itunes-u/introduction-to-algorithms/id341597754?mt=10
 
 ## Participants
 Interested in joining? Create a PR adding your name to this list.

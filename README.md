@@ -21,3 +21,4 @@ Interested in joining? Create a PR adding your name to this list.
 - [Potch](https://github.com/potch)
 - [Jon Ursenbach](https://github.com/jonursenbach)
 - [Charlie Robbins](https://github.com/indexzero)
+- [Ryan Kois](https://github.com/kid-icarus)
